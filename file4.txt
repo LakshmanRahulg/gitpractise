@@ -1,1 +1,2 @@
 This is another file created in feature branch
+This is file4 adding new content into this file
